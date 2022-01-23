@@ -3,7 +3,9 @@ Remove comments from facebook profile.
 
 FB allows you to see all of your past comments. You may want to clear them out. 
   
-Go to (replace YOURTAGHERE): https://www.facebook.com/YOURTAGHERE/allactivity?entry_point=www_top_menu_button&privacy_source=activity_log&log_filter=cluster_116&category_key=commentscluster
+Find your FB tag -- your tag is the part after facebook.com in the url when you go to your profile.
+
+Go to this URL (replace YOURTAGHERE with the tag found above): https://www.facebook.com/YOURTAGHERE/allactivity?entry_point=www_top_menu_button&privacy_source=activity_log&log_filter=cluster_116&category_key=commentscluster
   
 Hit f12 to open the developers console, and then hit Console.  
   
